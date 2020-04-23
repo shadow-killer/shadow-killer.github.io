@@ -27,6 +27,11 @@
       </tags>
   </entry>
   <entry>
+    <title>Demo:404</title>
+    <url>/2020/04/22/404/</url>
+    <content><![CDATA[<h3 id="哈哈，这里是404页面"><a href="#哈哈，这里是404页面" class="headerlink" title="哈哈，这里是404页面"></a>哈哈，这里是404页面</h3>]]></content>
+  </entry>
+  <entry>
     <title>Demo:Java基础介绍</title>
     <url>/2020/04/22/test-my-site/</url>
     <content><![CDATA[<h1 id="Landscape"><a href="#Landscape" class="headerlink" title="Landscape"></a>Landscape</h1><p>A brand new default theme for <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>.</p>
@@ -84,10 +89,5 @@
       <tags>
         <tag>Java基础</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Demo:404</title>
-    <url>/2020/04/22/404/</url>
-    <content><![CDATA[<h3 id="哈哈，这里是404页面"><a href="#哈哈，这里是404页面" class="headerlink" title="哈哈，这里是404页面"></a>哈哈，这里是404页面</h3>]]></content>
   </entry>
 </search>
