@@ -880,6 +880,11 @@ pre .javascript .function {
 .post-body .note.danger h6 {
   color: #d9534f;
 }
+.pdfobject-container iframe,
+.pdfobject-container embed {
+  height: 500px;
+  width: 100%;
+}
 .pagination .prev,
 .pagination .next,
 .pagination .page-number,
@@ -1246,7 +1251,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #328cd4;
+  background: #ff749c;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1492,6 +1497,7 @@ pre .javascript .function {
   color: #ff0000;
   display: inline-block;
   margin: 0 5px;
+  animation: iconAnimate 1.33s ease-in-out infinite;
 }
 .powered-by,
 .theme-info {
